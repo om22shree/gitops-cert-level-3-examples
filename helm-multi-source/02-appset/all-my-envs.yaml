@@ -49,7 +49,7 @@ spec:
       project: default
 
       sources:
-      - repoURL: https://kostis-codefresh.github.io/multi-sources-example
+      - repoURL: https://github.com/om22shree/gitops-cert-level-3-examples.git/helm-multi-source
         chart: my-chart
         targetRevision: '0.1.0'
         helm:
